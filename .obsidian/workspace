@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "a921006dbb6be528",
+    "type": "split",
+    "children": [
+      {
+        "id": "7286f5cf329b0978",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd23f13a527c4361",
+    "type": "split",
+    "children": [
+      {
+        "id": "87e52623a67e4786",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3653dc1c09119c37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4ee54683da3fe2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#z tag:#0quest",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "546fec9918f2a7f8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37d55b1f74c38b8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "caecb903f4368a62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f38d6a8fb7073246",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7050ecd3be531e0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c008b3aba7d16855",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 163
+  },
+  "active": "7286f5cf329b0978",
+  "lastOpenFiles": [
+    "Daily/2022-07-31.md",
+    "Base/OKRs.md",
+    "Templates/EisenhowerMatrix.md",
+    "Zettelkasten.md",
+    "Templates/DailyNote.md",
+    "Templates/MeetingNote.md",
+    "Templates/OKRNote.md",
+    "Base/Untitled 2.md",
+    "Templates/CornellNotes.md",
+    "Templates/Zettelkasten.md"
+  ]
+}
